@@ -22,7 +22,7 @@ It focuses on creating elegant motion effects (fade, slide, scale, rotation, her
 ---
 
 ## 🎥 Video
-🎬 [Demo Video](assets/video/demo.mp4)
+🎬 <video src="assets/video/demo.mp4" width="300" controls></video>
 
 ---
 ## ✨ Key Features
