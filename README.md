@@ -22,7 +22,9 @@ It focuses on creating elegant motion effects (fade, slide, scale, rotation, her
 ---
 
 ## 🎥 Video
-https://github.com/user-attachments/assets/1e1f329f-fffe-4441-b47b-8506fbf7d537
+
+https://github.com/user-attachments/assets/7306084a-c6c5-41d8-8500-e9b681ee56aa
+
 ---
 ## ✨ Key Features
 - Reusable transition library for both page and widget animations.
